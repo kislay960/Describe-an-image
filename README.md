@@ -8,6 +8,6 @@ Problems that can be solved using this -
 3. CCTV
 4. Web Image Search
 
-Tech stack used - asic Deep Learning concepts like Multi-layered Perceptrons, Convolution Neural Networks, Recurrent Neural Networks, Transfer Learning, Gradient Descent, Backpropagation, Overfitting, Probability, Text Processing, Python syntax and data structures, Keras library.
+Tech stack used - basic Deep Learning concepts like Multi-layered Perceptrons, Convolution Neural Networks, Recurrent Neural Networks, Transfer Learning, Gradient Descent, Backpropagation, Overfitting, Probability, Text Processing, Python syntax and data structures, Keras library.
 
 Dataset Used - Flickr8K(containing8k images)
